@@ -1,6 +1,8 @@
 ## Scott and Mark Learn To... Public Speaking
 # https://www.youtube.com/watch?app=desktop&si=5xvm4XsWTohFeDY0&v=X2jrg7r4gOY&feature=youtu.be&ab_channel=ScottHanselman 
 
+<iframe width="560" height="315" src="https://www.youtube.com/watch?app=desktop&si=5xvm4XsWTohFeDY0&v=X2jrg7r4gOY&feature=youtu.be&ab_channel=ScottHanselman" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 - the more you present, the less you prepare, like a feedback loop. Add the updates, novel things but mostly rely on prior experience
 - Prep time depends on your material and audience
 - Start from the end
